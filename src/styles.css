@@ -1,0 +1,33 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  background-color: #b91c1c;
+  color: #e5e7eb;
+}
+
+.header {
+  text-align: center;
+  color: #e5e7eb;
+}
+
+.line {
+  color: #e5e7eb;
+  text-align: center;
+}
+
+.button {
+  display: inline;
+  margin: 1rem;
+  font-size: 2rem;
+  background-color: black;
+  border-radius: 0rem;
+  border: 1;
+  cursor: pointer;
+  color: white;
+  text-align: center;
+}
